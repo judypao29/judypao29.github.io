@@ -31,3 +31,4 @@ github_username:  judypao29
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
