@@ -4,7 +4,6 @@ title:  "Adventure in the Pivot Castle: Chinese Walkthrough"
 date:   2023-12-27 13:40:26 -0800
 ---
 
-# 
 Play the game on [itch.io](https://judypao29.itch.io/adventure-in-the-castle-zh-tw)!
 
 ## 地圖：
