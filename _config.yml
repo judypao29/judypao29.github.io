@@ -31,7 +31,3 @@ github_username:  judypao29
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-google_search_console_verification_file
-
-google_search_console:
-  verification_file_code: a55d835241734e31
